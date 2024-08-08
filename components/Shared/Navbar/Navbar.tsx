@@ -17,6 +17,7 @@ export function Navbar() {
 
         <div className="flex items-center justify-center gap-x-7">
           <Link href="/dashboard">Listado de coches</Link>
+          <Link href="/employees">Empleados</Link>
           {userId ? (
             <>
               <Link href="/loved-cars">
