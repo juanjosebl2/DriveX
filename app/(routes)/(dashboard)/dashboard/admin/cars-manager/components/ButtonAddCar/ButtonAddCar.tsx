@@ -30,13 +30,13 @@ export function ButtonAddCar() {
       </DialogTrigger>
       <DialogContent>
         <DialogHeader>
+          <DialogTitle>Añadir coche</DialogTitle>
           <Button
             onClick={() => setOpenDialog(false)}
             className="absolute p-2 text-black bg-white order-black top-2 right-2 hover:bg-slate-300"
           >
             <X className="w-4 h-4" />
           </Button>
-          <DialogTitle>Añadir coche</DialogTitle>
           <DialogDescription>
             <FormAddCar setOpenDialog={setOpenDialog} />
           </DialogDescription>
