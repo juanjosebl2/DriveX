@@ -19,7 +19,8 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <ClerkProvider localization={es}>
+//    <ClerkProvider localization={es}>
+    <ClerkProvider>
       <html lang="en">
         <body className={outfit.className}>
           <NextTopLoader />

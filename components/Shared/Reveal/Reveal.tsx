@@ -43,7 +43,7 @@ export function Reveal(props: RevealProps) {
       mainControls.start("visble");
       slideControls.start("visble");
     }
-  }, [isInView]);
+  }, [isInView, mainControls, slideControls]);
 
   return (
     <div ref={ref}>
