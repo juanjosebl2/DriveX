@@ -1,0 +1,63 @@
+npx create-next-app@latest my-app --typescript --tailwind --eslint
+npx shadcn-ui@latest init
+npx shadcn-ui@latest add button
+npm install nextjs-toploader
+
+
+https://ui.shadcn.com/
+npx shadcn-ui@latest add separator
+npx shadcn-ui@latest add sheet
+npx shadcn-ui@latest add dialog
+npx shadcn-ui@latest add form
+npx shadcn-ui@latest add select
+npx shadcn-ui@latest add input
+npx shadcn-ui@latest add toast
+npx shadcn-ui@latest add alert-dialog
+npx shadcn-ui@latest add calendar
+npx shadcn-ui@latest add popover
+npx shadcn-ui@latest add table
+npx shadcn-ui@latest add carousel
+npm i embla-carousel-autoplay
+
+Para todo el tema del login
+https://clerk.com/
+npm install @clerk/nextjs
+
+
+npm i prisma
+npx prisma init
+npm i @prisma/client
+npx prisma db push (subir base de datos)
+npx prisma studio (ver contenido en la base de datos)
+
+Para subir imagenes
+https://uploadthing.com/
+npm install uploadthing @uploadthing/react
+
+Para la api
+npm install axios
+
+Para realizar pagos
+https://stripe.com/es?utm_campaign=EMEA_ES_es_Google_Search_Brand_Stripe_EXA-20811307326&utm_medium=cpc&utm_source=google&ad_content=682904374079&utm_term=stripe&utm_matchtype=e&utm_adposition=&utm_device=c&gad_source=1&gclid=Cj0KCQjwzby1BhCQARIsAJ_0t5N-AgqZY0pWGw8Q69OVQy7IHLHTDg76l52q12BpswYW6DQ0ymuyJKcaAu7DEALw_wcB
+https://docs.stripe.com/stripe-js/react
+
+npm install --save @stripe/react-stripe-js @stripe/stripe-js
+
+Seguir pasos de la pagina Stripe oficial, la de docs solo para la instalacion
+stripe login
+avid-fair-elate-free
+whsec_cb7531b9b0dbb341c3519a15c22b3ebf0778f4459a369ad1e178d59918074f3d
+stripe listen --forward-to localhost:3000/webhook
+npm install stripe
+
+Codigo seguridad stripe empresa
+cvbq-mpny-imcu-tdge-lbde
+
+Animaciones loved car
+https://zustand-demo.pmnd.rs/
+https://www.npmjs.com/package/zustand
+npm i zustand
+
+Animaciones para la pagina principal
+https://www.npmjs.com/package/framer-motion
+npm i framer-motion
