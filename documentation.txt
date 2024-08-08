@@ -61,3 +61,10 @@ npm i zustand
 Animaciones para la pagina principal
 https://www.npmjs.com/package/framer-motion
 npm i framer-motion
+
+Para email
+https://react.email/docs/getting-started/manual-setup
+npm install react-email @react-email/components -E
+npm run email
+npm install resend @react-email/components
+https://resend.com/
